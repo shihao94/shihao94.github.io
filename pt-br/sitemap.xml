@@ -26,18 +26,6 @@
                 href="https://shihao94.github.io/pt-br/categories.html"
                 />
   </url><url>
-    <loc>https://shihao94.github.io/pt-br/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shihao94.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://shihao94.github.io/pt-br/"
-                />
-  </url><url>
     <loc>https://shihao94.github.io/pt-br/series.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,6 +36,18 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://shihao94.github.io/pt-br/series.html"
+                />
+  </url><url>
+    <loc>https://shihao94.github.io/pt-br/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shihao94.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://shihao94.github.io/pt-br/"
                 />
   </url><url>
     <loc>https://shihao94.github.io/pt-br/tags.html</loc>
